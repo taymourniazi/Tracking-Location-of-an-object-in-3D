@@ -1,6 +1,7 @@
 import numpy as np
 
-########### Generating Data
+### Generating Data
+
 # Time step
 dt = 0.01
 # total number of measurements
