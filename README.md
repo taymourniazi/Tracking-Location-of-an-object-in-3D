@@ -1,5 +1,5 @@
 # Tracking-Location-of-an-object-in-3D
-## Tracking the state of an object in 3 dimensions: using Kalman Filtering
+## Tracking the state of an object in 3 dimensions: Using Kalman Filtering
 
 ### Build the model for the motion dynamics
 ### Generate Data
